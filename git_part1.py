@@ -1,9 +1,6 @@
-<<<<<<< HEAD
+
 
 print("GIT PART1***")
+print("Test Change")
 
 
-=======
-print("GIT PART1")
-print('****')
->>>>>>> train_branch
